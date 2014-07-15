@@ -1,0 +1,10 @@
+E:\C#\TaxiFirm\TaxiFirm\bin\TaxiFirm.dll
+E:\C#\TaxiFirm\TaxiFirm\bin\TaxiFirm.pdb
+E:\C#\TaxiFirm\TaxiFirm\obj\Debug\TaxiFirm.dll
+E:\C#\TaxiFirm\TaxiFirm\obj\Debug\TaxiFirm.pdb
+E:\C#\TaxiFirm\TaxiFirm\obj\Debug\TaxiFirm.csprojResolveAssemblyReference.cache
+L:\TaxiFirm\TaxiFirmManagmentSystem_new\TaxiFirm\TaxiFirm\obj\Debug\TaxiFirm.csprojResolveAssemblyReference.cache
+L:\TaxiFirm\TaxiFirmManagmentSystem_new\TaxiFirm\TaxiFirm\obj\Debug\TaxiFirm.dll
+L:\TaxiFirm\TaxiFirmManagmentSystem_new\TaxiFirm\TaxiFirm\obj\Debug\TaxiFirm.pdb
+L:\TaxiFirm\TaxiFirmManagmentSystem_new\TaxiFirm\TaxiFirm\bin\TaxiFirm.dll
+L:\TaxiFirm\TaxiFirmManagmentSystem_new\TaxiFirm\TaxiFirm\bin\TaxiFirm.pdb

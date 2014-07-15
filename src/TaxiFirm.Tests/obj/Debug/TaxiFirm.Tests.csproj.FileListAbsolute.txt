@@ -1,0 +1,8 @@
+L:\TaxiFirm\TaxiFirmManagmentSystem_new\TaxiFirm\TaxiFirm.Tests\bin\Debug\TaxiFirm.Tests.dll.config
+L:\TaxiFirm\TaxiFirmManagmentSystem_new\TaxiFirm\TaxiFirm.Tests\bin\Debug\TaxiFirm.Tests.dll
+L:\TaxiFirm\TaxiFirmManagmentSystem_new\TaxiFirm\TaxiFirm.Tests\bin\Debug\TaxiFirm.Tests.pdb
+L:\TaxiFirm\TaxiFirmManagmentSystem_new\TaxiFirm\TaxiFirm.Tests\bin\Debug\TaxiFirm.dll
+L:\TaxiFirm\TaxiFirmManagmentSystem_new\TaxiFirm\TaxiFirm.Tests\bin\Debug\TaxiFirm.pdb
+L:\TaxiFirm\TaxiFirmManagmentSystem_new\TaxiFirm\TaxiFirm.Tests\obj\Debug\TaxiFirm.Tests.csprojResolveAssemblyReference.cache
+L:\TaxiFirm\TaxiFirmManagmentSystem_new\TaxiFirm\TaxiFirm.Tests\obj\Debug\TaxiFirm.Tests.dll
+L:\TaxiFirm\TaxiFirmManagmentSystem_new\TaxiFirm\TaxiFirm.Tests\obj\Debug\TaxiFirm.Tests.pdb
